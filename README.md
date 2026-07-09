@@ -77,5 +77,3 @@ g++ RayTracer.cpp Sphere.cpp Plane.cpp Cylinder.cpp Cone.cpp Torus.cpp Ray.cpp \
 ## About
 
 Recursive ray tracer implementing custom torus/cone/cylinder geometry, refraction, spotlighting, texture mapping, and anti-aliasing, built on a course-provided rendering framework. COSC363, University of Canterbury.
-
-**Author:** Ryan Teape
