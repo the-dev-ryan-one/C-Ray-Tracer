@@ -1,6 +1,8 @@
 # Grateful Dead Ray Tracer
 
-<img width="442" height="472" alt="Grateful Dead ray traced scene" src="https://github.com/user-attachments/assets/691a4381-6511-48e3-9e02-241b72edb475" />
+<p align="center">
+  <img width="442" height="472" alt="Grateful Dead ray traced scene" src="https://github.com/user-attachments/assets/691a4381-6511-48e3-9e02-241b72edb475" />
+</p>
 
 # Recursive Ray Tracer
 
